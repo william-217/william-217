@@ -1,16 +1,21 @@
-## Hi there 👋
+## Greetings 👋
 
-<!--
-**william-217/william-217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Guilherme or William if you prefer. I'm a Full-Stack Developer and Media Content Editor.
+I'm currently taking a Bachelor's degree in a Software and Applications Development at ISCTE Sintra.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,c,css,docker,express,figma,firebase,flutter,html,js,mongodb,mysql,postgres,postman,py,react,scala" />
+  </a>
+</p>
+
+## Platforms
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=autocad,eclipse,idea,ai,ps,visualstudio,vscode" />
+  </a>
+</p>
