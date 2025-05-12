@@ -4,7 +4,7 @@ My name is Guilherme or William if you prefer. I'm a Full-Stack Developer and Me
 I'm currently taking a Bachelor's degree in a Software and Applications Development at ISCTE Sintra.
 
 ## About Me
-• ![Portuguese Flag](https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg) I'm from Portugal
+• <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" width="100" /> I'm from Portugal
 •
 •
 •
