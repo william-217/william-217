@@ -9,7 +9,7 @@ I'm currently taking a Bachelor's degree in a Software and Applications Developm
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,c,css,docker,express,figma,firebase,flutter,html,js,mongodb,mysql,postgres,postman,py,react,scala" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,c,css,docker,express,figma,firebase,flutter,html,java,js,mongodb,mysql,postman,py,react,scala&perline=4" />
   </a>
 </p>
 
