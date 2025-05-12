@@ -5,9 +5,13 @@ I'm currently taking a Bachelor's degree in a Software and Applications Developm
 
 ## About Me
 • <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" width="32" /> I'm from Portugal
+
 • 🎲 I'm a Table Top Roleplaying Game Developer
+
 • ✍🏻 I fancy myself a Fantasy Novel Writer
+
 • 🎥 I love editing videos and images
+
 • ✨ My creativity is my super power
 
 ## Skills
