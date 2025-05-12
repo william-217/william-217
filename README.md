@@ -13,8 +13,7 @@ I'm currently taking a Bachelor's degree in a Software and Applications Developm
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
   <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+  <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" /></a>
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" /></a>
   <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>
   <a href="https://www.scala-lang.org/"><img src="https://skillicons.dev/icons?i=scala" /></a>
@@ -26,6 +25,8 @@ I'm currently taking a Bachelor's degree in a Software and Applications Developm
   <a href="https://www.eclipse.org/"><img src="https://skillicons.dev/icons?i=eclipse" /></a>
   <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
   <a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
   <a href="https://www.adobe.com/products/illustrator.html"><img src="https://skillicons.dev/icons?i=ai" /></a>
   <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" /></a>
   <a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio" /></a>
