@@ -10,7 +10,6 @@ I'm currently taking a Bachelor's degree in a Software and Applications Developm
   <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skillicons.dev/icons?i=c" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
-  <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
   <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
@@ -26,8 +25,6 @@ I'm currently taking a Bachelor's degree in a Software and Applications Developm
   <a href="https://www.autodesk.com/products/autocad/overview"><img src="https://skillicons.dev/icons?i=autocad" /></a>
   <a href="https://www.eclipse.org/"><img src="https://skillicons.dev/icons?i=eclipse" /></a>
   <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
-  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a>
-  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" /></a>
   <a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" /></a>
   <a href="https://www.adobe.com/products/illustrator.html"><img src="https://skillicons.dev/icons?i=ai" /></a>
   <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" /></a>
