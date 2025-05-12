@@ -10,9 +10,9 @@ I'm currently taking a Bachelor's degree in a Software and Applications Developm
 
 • ✍🏻 I fancy myself a Fantasy Novel Writer
 
-• 🎥 I love editing videos and images
+• 📜 I love working on projects where I can use my creativity
 
-• ✨ My creativity is my super power
+• ✨ A believing heart is our magic
 
 ## Skills
 <p align="center">
