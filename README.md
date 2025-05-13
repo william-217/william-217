@@ -12,7 +12,7 @@ I'm currently taking a Bachelor's degree in a Software and Applications Developm
 
 • 📜 I love working on projects where I can use my creativity
 
-• ✨ A believing heart is our magic
+• ✨ A believing heart is your magic
 
 ## Skills
 <p align="center">
